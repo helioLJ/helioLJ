@@ -1,17 +1,15 @@
-## Olá, eu sou o Hélio L.J.
+# Olá, eu sou Hélio! 😁
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/helioLJ)[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heliolj/)[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/wolfmasterxz557)
 
- <div>
-  <a href="https://github.com/helioLJ">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=helioLJ&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helioLJ&layout=compact&langs_count=7&theme=synthwave"/>
-</div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="right" alt="" height="320" width="300" src="https://media.giphy.com/media/4ilFRqgbzbx4c/giphy.gif?cid=ecf05e470ixlghdtc00s7cr5utx8hm85qbem28nr9juavyrf&rid=giphy.gif&ct=g">
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=helioLJ&show_icons=true&theme=vue-dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helioLJ)](https://github.com/anuraghazra/github-readme-stats)
 
-##
+## Tecnologias que utilizo 🧑‍💻:
+<br>
 
+![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+## Tecnologias que estou estudando no momento 📚:
+<br> 
+
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
