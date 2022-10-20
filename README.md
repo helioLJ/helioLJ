@@ -1,10 +1,27 @@
-# Olá, eu sou Hélio! 😁
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/helioLJ)[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heliolj/)[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/wolfmasterxz557)
+<h1 align="center">Bem vindo!</h1>
 
+<h2>Sobre Mim</h2>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=helioLJ&show_icons=true&theme=vue-dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helioLJ)](https://github.com/anuraghazra/github-readme-stats)
+<p>
+    <em>Meu nome é Hélio, <strong>desenvolvedor web!</strong></em>
+</p>
 
-## Tecnologias que utilizo 🧑‍💻:
-<br>
+- 📚 Faculdade: Ciências da Computação
+- 🚀 Curso: Rocketseat
+- 🧑‍💻 Site: https://heliolj-dev.netlify.app/
 
-![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<br/>
+<br/>
+<h2><strong>⚡ Tecnologias</strong></h2>
+<br/>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,sass,vite,figma,git,github"></img>
+</div>
+<br/>
+<br/>
+
+## 📈 Números
+
+<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=heliolj&show_icons=true&theme=merko"></img>
+
+<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heliolj&layout=compact&theme=merko"></img>
