@@ -8,7 +8,7 @@
 
 - 📚 Faculdade: Ciências da Computação
 - 🚀 Curso: Rocketseat
-- 🧑‍💻 Site: https://heliolj-dev.netlify.app/
+- 🧑‍💻 Site: helio-dev.vercel.app
 
 <br/>
 <br/>
