@@ -15,7 +15,7 @@
 <h2><strong>⚡ Tecnologias</strong></h2>
 <br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,mysql,sass,git,github"></img>
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,mysql,mongodb,handlebars,sass,git,github"></img>
 </div>
 <br/>
 <br/>
