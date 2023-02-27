@@ -8,7 +8,6 @@
 
 - 📚 Faculdade: Ciências da Computação
 - 🚀 Curso: Rocketseat
-- 🧑‍💻 Site: meu-portfolio-lovat.vercel.app
 
 <br/>
 <br/>
