@@ -7,6 +7,7 @@ Dev. Web Full-Stack.
 Apaixonado por programação, estou todo dia praticando.
 
 Faculdade: Ciências da Computação
+
 Curso: Rocketseat (Explorer)
 
 ## 🛠 Habilidades
