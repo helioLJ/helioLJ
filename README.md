@@ -1,13 +1,11 @@
 # Olá, eu sou o Hélio Lúcio! 👋
 ## Desenvolvedor Web Frontend
 
-Jovem apaixonado por programação desde criança, sou um desenvolvedor autodidata com um sólido background em programação.
+Dedico meu tempo livre a projetos pessoais que geram valor, usando tecnologias no Front como ReactJS, Next.js, TypeScript e TailwindCSS. Além de também ter experiência no Backend com Node.js, Express, Fastify e Prisma.
 
-Atualmente, atuo como desenvolvedor frontend (voluntário) na Devlaunchers, buscando adquirir experiência para entrar no mercado de trabalho.
+Atualmente, estagio como desenvolvedor frontend na Devlaunchers, buscando adquirir experiência para entrar no mercado de trabalho.
 
-Dedico meu tempo livre a projetos pessoais que geram valor, explorando novas tecnologias e aprimorando minhas habilidades de programação.
-
-Já realizei trabalhos como freelancer, desenvolvendo soluções personalizadas para atender às necessidades dos clientes.
+Já realizei trabalhos como freelancer, desenvolvendo soluções personalizadas para atender às necessidades dos clientes. 
 
 Meu objetivo é crescer profissionalmente como desenvolvedor, contribuindo com meu conhecimento e habilidades em um ambiente desafiador e inovador.
 
