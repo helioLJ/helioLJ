@@ -1,5 +1,5 @@
 # Olá, eu sou o Hélio Lúcio! 👋
-## Desenvolvedor Web Frontend
+## Desenvolvedor Web Fullstack
 
 Dedico meu tempo livre a projetos pessoais que geram valor, usando tecnologias no Front como ReactJS, Next.js, TypeScript e TailwindCSS. Além de também ter experiência no Backend com Node.js, Express, Fastify e Prisma.
 
