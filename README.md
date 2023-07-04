@@ -1,17 +1,12 @@
-# Olá, eu sou o Hélio Lúcio! 👋
-## Desenvolvedor Web Fullstack
+# Hélio Lúcio - Fullstack Developer 👋
 
-Dedico meu tempo livre a projetos pessoais que geram valor, usando tecnologias no Front como ReactJS, Next.js, TypeScript e TailwindCSS. Além de também ter experiência no Backend com Node.js, Express, Fastify e Prisma.
+I dedicate my free time to personal projects that generate value, using Front technologies like ReactJS, Next.js, TypeScript and TailwindCSS. In addition to also having experience in the Backend with Node.js, Express, Fastify and Prisma.
 
-Atualmente, estagio como desenvolvedor frontend na Devlaunchers, buscando adquirir experiência para entrar no mercado de trabalho.
+Currently, I am an internship as a frontend developer at Devlaunchers, seeking to gain experience to enter the job market.
 
-Já realizei trabalhos como freelancer, desenvolvendo soluções personalizadas para atender às necessidades dos clientes. 
+I have worked as a freelancer, developing customized solutions to meet customer needs.
 
-Meu objetivo é crescer profissionalmente como desenvolvedor, contribuindo com meu conhecimento e habilidades em um ambiente desafiador e inovador.
-
-Entre em contato comigo para oportunidades de colaboração e networking:
-
-[Portfólio](https://helioportfolio.vercel.app/)
+My goal is to grow professionally as a developer, contributing my knowledge and skills in a challenging and innovative environment.
 
 ## 🛠 Habilidades
 
