@@ -2,7 +2,7 @@
 
 I dedicate my free time to personal projects that generate value, using Front technologies like ReactJS, Next.js, TypeScript and TailwindCSS. In addition to also having experience in the Backend with Node.js, Express, Fastify and Prisma.
 
-Currently, I am an internship as a frontend developer at Devlaunchers, seeking to gain experience to enter the job market.
+Currently, I am an volunteer job as a frontend developer at Devlaunchers, seeking to gain experience to enter the job market.
 
 I have worked as a freelancer, developing customized solutions to meet customer needs.
 
