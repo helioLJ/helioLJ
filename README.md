@@ -1,14 +1,10 @@
-# Hélio Lúcio - Fullstack Developer 👋
+# Hélio Lúcio - Software Engineer 👋
 
-I dedicate my free time to personal projects that generate value, using Front technologies like ReactJS, Next.js, TypeScript and TailwindCSS. In addition to also having experience in the Backend with Node.js, Express, Fastify and Prisma.
+- Acting as Software Developer in Dev Launchers Org.
+- Graduating in Computer Science
+- Freelancer
 
-Currently, I am an volunteer job as a frontend developer at Devlaunchers, seeking to gain experience to enter the job market.
-
-I have worked as a freelancer, developing customized solutions to meet customer needs.
-
-My goal is to grow professionally as a developer, contributing my knowledge and skills in a challenging and innovative environment.
-
-## 🛠 Habilidades
+## 🛠 Some Skills
 
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
