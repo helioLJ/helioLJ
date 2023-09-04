@@ -1,29 +1,57 @@
-# Hélio Lúcio - Software Engineer 👋
+# About Me
+I am a software developer from Brazil with experience and projects. I am passionate about programming.
 
-- Acting as Software Developer in Dev Launchers Org.
-- Graduating in Computer Science
-- Freelancer
+## Skills
+**Programming languages:** Typescript, Javascript, Node.js, Python, Java, SQL, HTML, CSS
 
-## 🛠 Some Skills
+**Technologies:** NestJS, Express, Fastify, Prisma, PostgreSQL, MySQL, MongoDB, Django, Spring Boot, ReactJS
 
-![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![reactjs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![nextjs](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![tailwindcss](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![styled-components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![fastify](https://img.shields.io/badge/fastify-202020?style=for-the-badge&logo=fastify&logoColor=white)
-![jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![eslint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
-![prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
-![figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+**Tools:** Git, Docker, AWS, Linux (UNIX), Agile Methodology
 
-## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heliolj/)
+<div style="margin: 10px 0; padding: 10px;">
+  <div style="display: flex; justify-content: space-around;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png" height="50px" object-fit="contain">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png?20120221235433" height="50px" object-fit="contain">
+    <img src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-1-logo-png-transparent.png" height="50px" object-fit="contain">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/2048px-Python.svg.png" height="50px" object-fit="contain">
+    <img src="https://static.vecteezy.com/system/resources/previews/019/899/948/original/java-free-download-free-png.png" height="50px" object-fit="contain">
+    <img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo.png" height="50px" object-fit="contain">
+    <img src="https://logodownload.org/wp-content/uploads/2017/04/css-3-logo.png" height="50px" object-fit="contain">
+  </div>
+</div>
+
+<div style="margin: 10px 0; padding: 10px;">
+  <div style="display: flex; justify-content: space-around;">
+    <img src="https://seeklogo.com/images/N/nestjs-logo-09342F76C0-seeklogo.com.png" height="50px" object-fit="contain">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" height="50px" object-fit="contain">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Fastify.png" height="50px" object-fit="contain">
+    <img src="https://cf-assets.www.cloudflare.com/slt3lc6tev37/4WJkWMYGkEpa05B0hyL88E/91dd67e91752d39d94b60cdcdfdc287d/prismalogo-freelogovectors.net_.png" height="50px" object-fit="contain">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/540px-Postgresql_elephant.svg.png" height="50px" object-fit="contain">
+    <img src="https://altyra.com/wp-content/uploads/2018/11/mysql-logo-png-transparent.png" height="50px" object-fit="contain">
+    <img src="./assets/pngwing.com.png" height="50px" object-fit="contain">
+    <img src="./assets/pngwing.com (1).png" height="50px" object-fit="contain">
+    <img src="./assets//pngaaa.com-2459546.png" height="50px" object-fit="contain">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" height="50px" object-fit="contain">
+  </div>
+</div>
+
+
+<div style="margin: 10px 0; padding: 10px;">
+  <div style="display: flex; justify-content: space-around;">
+    <img src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png" height="50px" object-fit="contain">
+    <img src="https://logopng.com.br/logos/docker-27.png" height="50px" object-fit="contain">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1024px-Amazon_Web_Services_Logo.svg.png" height="50px" object-fit="contain">
+    <img src="https://imagepng.org/wp-content/uploads/2017/06/pinguim-linux-tux-2-871x1024.png" height="50px" object-fit="contain">
+  </div>
+</div>
+
+
+## Education
+B.S. in Computer Science from Cruzeiro do Sul
+
+
+## Contact
+Email: helio.lucio.jr@hotmail.com
+
+LinkedIn: https://www.linkedin.com/in/heliolj/
+
