@@ -16,13 +16,13 @@ I entered in a journey to get at least a minimum knowledge in many Programming L
   - [x] UI JS Frameworks
     - [x] React
     - [ ] Angular
-    - [ ] Vue.js
+    - [ ] Vue.js ⌛
     - [x] Svelte
 - [x] SQL
   - [x] SQL Databases
     - [x] SQLite
     - [x] PostgreSQL
-    - [ ] MySQL
+    - [ ] MySQL ⌛
     - [ ] MariaDB
   - [x] NoSQL Databases
     - [x] MongoDB
@@ -55,8 +55,8 @@ I entered in a journey to get at least a minimum knowledge in many Programming L
 - [ ] Kotlin
 - [ ] C#
   - [ ] ASP.NET
-- [ ] PHP
-  - [ ] Laravel
+- [ ] PHP ⌛
+  - [ ] Laravel ⌛
 - [ ] Ruby
   - [ ] Ruby on Rails
 - [ ] Go
