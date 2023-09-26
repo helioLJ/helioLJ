@@ -30,6 +30,7 @@ I entered in a journey to get at least a minimum knowledge in many Programming L
   - [x] ORMs
     - [x] Sequelize (Node.js)
     - [x] Prisma (Node.js)
+    - [ ] Eloquent (PHP) ⌛
     - [ ] Hibernate (Java)
     - [ ] Entity (C#)
 - [x] TypeScript / JavaScript
