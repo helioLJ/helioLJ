@@ -16,13 +16,13 @@ I entered in a journey to get at least a minimum knowledge in many Programming L
   - [x] UI JS Frameworks
     - [x] React
     - [ ] Angular
-    - [ ] Vue.js ⌛
+    - [x] Vue.js
     - [x] Svelte
 - [x] SQL
   - [x] SQL Databases
     - [x] SQLite
     - [x] PostgreSQL
-    - [ ] MySQL ⌛
+    - [x] MySQL
     - [ ] MariaDB
   - [x] NoSQL Databases
     - [x] MongoDB
@@ -30,7 +30,7 @@ I entered in a journey to get at least a minimum knowledge in many Programming L
   - [x] ORMs
     - [x] Sequelize (Node.js)
     - [x] Prisma (Node.js)
-    - [ ] Eloquent (PHP) ⌛
+    - [x] Eloquent (PHP)
     - [ ] Hibernate (Java)
     - [ ] Entity (C#)
 - [x] TypeScript / JavaScript
@@ -53,37 +53,19 @@ I entered in a journey to get at least a minimum knowledge in many Programming L
 - [x] Java
   - [x] Frameworks
     - [x] Spring Boot
-- [ ] Kotlin
 - [ ] C#
   - [ ] ASP.NET
-- [ ] PHP ⌛
-  - [ ] Laravel ⌛
+- [x] PHP
+  - [x] Laravel
 - [ ] Ruby
   - [ ] Ruby on Rails
-- [ ] Go
-  - [ ] Gin
-- [ ] Rust
-- [ ] Elixir
-  - [ ] Phoenix
-     
-## Other knowledges
-
-- [x] Git & GitHub
-- [x] Docker
-- [ ] Cloud
-  - [ ] AWS
-  - [ ] Azure
-  - [ ] Google
-- [x] Project Management
-  - [x] Agile
-    - [x] Scrum
 
 ## Education
 B.S. in Computer Science from Cruzeiro do Sul
 
 
 ## Contact
-Email: helio.lucio.jr@hotmail.com
+Email: contato@heliodev.tech
 
 LinkedIn: https://www.linkedin.com/in/heliolj/
 
