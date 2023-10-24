@@ -6,6 +6,5 @@ B.S. in Computer Science from Cruzeiro do Sul
 
 
 ## Contact
-Email: contato@heliodev.tech
 
 LinkedIn: https://www.linkedin.com/in/heliolj/
