@@ -56,8 +56,6 @@ I'm a passionate Software Developer based in Brazil. My journey in the programmi
 ![RESTful APIs](https://img.shields.io/badge/-RESTful%20APIs-000000?style=flat)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-## 📈 GitHub Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=helioLJ&show_icons=true&hide_title=true&hide_border=true)](https://github.com/helioLJ)
 
 Let's connect! 🌐
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heliolj/)
