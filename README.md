@@ -36,8 +36,9 @@ I'm a passionate Software Developer based in Brazil. My journey in the programmi
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 
-<!-- ### Cloud Platforms
+### Cloud Platforms
 ![AWS](https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+<!--
 ![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white) -->
 
