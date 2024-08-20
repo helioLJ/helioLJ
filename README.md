@@ -1,22 +1,4 @@
-I'm a passionate Software Developer based in Brazil. My journey in the programming world involves a love for building software and exploring the latest innovations.
+I write some code straight from Brazil
 
-```
-            .-"""-.
-           '       \
-          |,.  ,-.  |
-          |()L( ()| |
-          |,'  `".| |
-          |.___.',| `
-         .j `--"' `  `.
-        / '        '   \
-       / /          `   `.
-      / /            `    .
-     / /              l   |
-    . ,               |   |
-    ,"`.             .|   |
- _.'   ``.          | `..-'l
-|       `.`,        |      `.
-|         `.    __.j         )
-|__        |--""___|      ,-'
-   `"--...,+""""   `._,.-' mh
-```
+![Burger Eating GIF](https://tenor.com/view/burger-eating-frieren-frieren-beyond-journey%27s-end-sousou-no-frieren-gif-13425073513713719938.gif)
+![Burger Eating GIF](https://tenor.com/pt-BR/view/sousou-no-frieren-frieren-beer-friren-фрирен-gif-14322219776376419169.gif)
